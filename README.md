@@ -17,8 +17,8 @@ From there we can derive all the other formulas (derivations are in the derivati
 
 Example uses: 
 
-Input: 
-<img width="675" height="90" alt="image" src="https://github.com/user-attachments/assets/33598d22-cc98-42dc-b5a0-62ea798c85be" />
-Output: 
-<img width="506" height="116" alt="image" src="https://github.com/user-attachments/assets/03797414-9f0f-46ac-8da9-adfc0548d434" />
+Input: \newline
+<img width="675" height="90" alt="image" src="https://github.com/user-attachments/assets/33598d22-cc98-42dc-b5a0-62ea798c85be" /> \newline
+Output: \newline
+<img width="506" height="116" alt="image" src="https://github.com/user-attachments/assets/03797414-9f0f-46ac-8da9-adfc0548d434" /> \newline
  
