@@ -10,7 +10,9 @@ pip install numpy
 The math: 
 Force of Gravity:
 This is given by Newton's Law of Universal Gravitation:
-$ F_g = \frac{m_1m_2G}{r^2}$
+\begin{equation}
+F_g = \frac{m_1m_2G}{r^2}
+\end{equation}
 where $m_1$ and $m_2$ are the masses of the two bodies, $G$ is the gravitational constant $6.67\cdot10^-11 \space \frac{Nm^2}{kg^2}$ 
 
 From there we can derive all the other formulas (derivations are in the derivations.tex file)
